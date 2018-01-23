@@ -4,7 +4,7 @@
 
 #### By _**Mike B Lambert**_
 
-![Screenshot of full deck].(./img/screenshot.PNG)
+![Screenshot of full deck](./img/screenshot.PNG)
 
 
 ## Setup/Installation Requirements
