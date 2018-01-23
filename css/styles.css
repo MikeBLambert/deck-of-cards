@@ -1,0 +1,16 @@
+.container {
+  margin: 200px;
+  padding: 200px;
+  text-align: center;
+  background-color: orange;
+}
+
+body {
+  background-color: red
+}
+
+.fullDeck {
+  text-align: left;
+  margin-left: 40%;
+  margin-top: 10px;
+}
